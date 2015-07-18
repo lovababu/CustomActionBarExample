@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CustomActionBarExample</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_search">Search here.</string>
+    <string name="action_you">Sign in here.</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <color name="actionbar_background">#2196F3</color>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

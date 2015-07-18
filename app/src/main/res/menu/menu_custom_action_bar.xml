@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".CustomActionBarActivity">
+
+    <item
+            android:id="@+id/search_icon"
+            android:title="@string/action_search"
+            android:orderInCategory="100"
+            android:icon="@drawable/search_icon"
+            app:showAsAction="always"/>
+    <item
+            android:id="@+id/you_icon"
+            android:title="@string/action_you"
+            android:orderInCategory="100"
+            android:icon="@drawable/you_icon"
+            app:showAsAction="always"/>
+
+    <item
+            android:id="@+id/action_settings"
+            android:title="@string/action_settings"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+</menu>
